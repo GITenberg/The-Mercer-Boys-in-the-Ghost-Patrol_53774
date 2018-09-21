@@ -1,0 +1,32 @@
+_repo: The-Mercer-Boys-in-the-Ghost-Patrol_53774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wyckoff, Capwell
+    aliases:
+    - Wyckoff, Albert Capwell
+    - Wyckoff, A. Capwell (Albert Capwell)
+    birthdate: 1903
+    deathdate: 1953
+    gutenberg_agent_id: '44394'
+    url: http://www.gutenberg.org/2009/agents/44394
+description: ''
+gutenberg_issued: '2016-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Ghost stories'
+- !lcsh 'Military cadets -- Juvenile fiction'
+- GITenberg
+title: The Mercer Boys in the Ghost Patrol
+url: http://www.gutenberg.org/ebooks/53774
